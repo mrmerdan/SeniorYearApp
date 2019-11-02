@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">seniorYearApp</string>
+    <string name="title_activity_add_location">addLocationActivity</string>
+    <string name="title_activity_location_detail">locationDetail</string>
+</resources>
